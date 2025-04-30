@@ -1,2 +1,3 @@
 # AI_HackathonGAMA
-Hackathon Code summit by GAMA team.
+Hackathon Code summit by GAMA team
+JP.
